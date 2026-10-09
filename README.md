@@ -1,2 +1,1 @@
-# TRACE
-“It won't happen in one day, but it will happen one day.”
+TRACE is a student-focused initiative aimed at reducing drug trafficking and exploitation in Delhi. Our website raises awareness, provides educational resources, promotes prevention, and connects students with trusted support services. Through innovation and community action, TRACE aims to build safer schools and communities, guided by our belief: “It won't happen in one day, but it will happen one day.”
