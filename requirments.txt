@@ -1,4 +1,3 @@
 sarvamai
 streamlit
 pandas
-python-dotnev
